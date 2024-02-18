@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Display Reddit Results Date on DuckDuckGo",
+  "version": "1.0",
+  "description": "This extension simply displays the date, comments count, and upvote count of Reddit pages listed in DuckDuckGo search results.",
+  "icons": {
+      "48": "icon.png"
+  },
+  "browser_action": {
+      "default_icon": {
+          "48": "icon.png"
+      },
+      "default_popup": "popup.html"
+  },
+  "permissions": [
+    "https://old.reddit.com/*",
+    "https://reddit.com/*"
+  ],
+  
+  "content_scripts": [
+    {
+      "matches": ["https://duckduckgo.com/*"],
+      "js": ["popup.js"]
+    }
+  ]
+}
