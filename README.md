@@ -1,4 +1,4 @@
-# Display Reddit Results Date On DuckDuckGo 
+# Display Reddit Pages Date On DuckDuckGo 
 ![popup](icon.png)
 
 ## Description
