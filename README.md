@@ -12,7 +12,8 @@ This extension simply displays the date, comments, and upvote information of Red
 
 ## Installation
 
-### Chromium-based Browsers (e.g., Google Chrome, Microsoft Edge)
+### Chromium-based Browsers (e.g., Google Chrome, Microsoft Edge) 
+> Not recommended tho since ManifestV2 is deprecated in Chromium.
 
 1. [**Download**](https://codeload.github.com/AhmedSahbaoui69/LexilogosArTranscriberXT/zip/refs/heads/main) the latest release.
 2. **Unzip the file.**
