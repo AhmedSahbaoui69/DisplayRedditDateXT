@@ -15,7 +15,7 @@ This extension simply displays the date, comments, and upvote information of Red
 ### Chromium-based Browsers (e.g., Google Chrome, Microsoft Edge) 
 > Not recommended tho since ManifestV2 is deprecated in Chromium.
 
-1. [**Download**](https://codeload.github.com/AhmedSahbaoui69/LexilogosArTranscriberXT/zip/refs/heads/main) the latest release.
+1. [**Download**](https://codeload.github.com/AhmedSahbaoui69/DisplayRedditDateXT/edit/main) the latest release.
 2. **Unzip the file.**
 3. Open your browser and go to the Extensions page (`chrome://extensions/` for Chrome/Edge).
 4. Enable "Developer mode."
@@ -23,7 +23,7 @@ This extension simply displays the date, comments, and upvote information of Red
 
 ### Firefox
 
-1. [**Download**](https://codeload.github.com/AhmedSahbaoui69/LexilogosArTranscriberXT/zip/refs/heads/main) the latest release.
+1. [**Download**](https://codeload.github.com/AhmedSahbaoui69/DisplayRedditDateXT/edit/main) the latest release.
 2. **Unzip the file.**
 3. Open your Firefox browser.
 4. Go to the Add-ons page (`about:addons`).
