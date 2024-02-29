@@ -3,7 +3,7 @@
 
 ## Description
 
-After numerous complaints, DuckDuckGo still haven't added this feature so I took matters into my own hands and coded it.
+After numerous complaints, DuckDuckGo still haven't added this feature, so I took matters into my own hands and coded it.
 This extension simply displays the date, comments, and upvote information of Reddit pages listed in [DuckDuckGo](https://duckduckgo.com/) search results.
 
 ## Preview
